@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Script&display=swap');
+
+body{
+    background-color: #fcf6ec ;
+}
+
+.headingFont{
+    font-family: "Luxurious Script", cursive;
+    font-weight: 800;
+    font-style: normal;
+}

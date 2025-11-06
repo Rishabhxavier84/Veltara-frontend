@@ -5,7 +5,7 @@ Veltara is a website for managing Veltara Hotels. It has a modern design, built 
 - Get the information of various rooms and services
 
 ## 🚀 Demo
-Try Veltura here: [Veltara](https://rishabhxavier84.github.io/Veltara-frontend/) <br>
+Try Veltura here: [Veltara](https://veltara-hotels-frontend.vercel.app/) <br>
 Open the link and click on the logo.
 
 ## 🛠  Technologies Used
